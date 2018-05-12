@@ -1,0 +1,33 @@
+_repo: French-and-Oriental-Love-in-a-Harem_21868
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Avril, Paul
+    birthdate: 1843
+    deathdate: 1904
+    gutenberg_agent_id: '24941'
+    url: http://www.gutenberg.org/2009/agents/24941
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Uchard, Mario
+    birthdate: 1824
+    deathdate: 1893
+    gutenberg_agent_id: '24940'
+    url: http://www.gutenberg.org/2009/agents/24940
+description: ''
+gutenberg_issued: '2007-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Harems -- Fiction'
+- !lcc 'PQ'
+title: French and Oriental Love in a Harem
+url: http://www.gutenberg.org/ebooks/21868
