@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '24940'
     url: http://www.gutenberg.org/2009/agents/24940
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21868#French-and-Oriental-Love-in-a-Harem
 gutenberg_issued: '2007-06-19'
 gutenberg_type: Text
 identifiers:
